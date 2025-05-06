@@ -18,7 +18,7 @@ public class Videojuego {
     public enum Empresa {
         XBOX,
         NINTENDO,
-        PLAT_STATION
+        PLAY_STATION
     }
 
     public Videojuego(String nombre, int epoca, double precio, int duracion, Genero genero, Empresa empresa) {
